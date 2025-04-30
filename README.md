@@ -41,10 +41,5 @@ Custom HTTP routes are defined in `convex/router.ts`. This file contains all log
 
 This app is linked to a live Convex deployment: https://dashing-weasel-50.convex.app/
 
-For deploying your own version:
-- Visit the Convex [Production Guide](https://docs.convex.dev/production/)
-- Update project settings and connect your own domain if needed
 
----
 
-Let me know if you'd like to add **screenshots, badges**, or a **live demo link** for an even better impression!
