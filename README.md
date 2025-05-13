@@ -12,7 +12,6 @@ This is a simple and effective IP Lookup tool that allows users to check the geo
 ## 🧩 Tech Stack
 
 - **Frontend**: Built using [Vite](https://vitejs.dev/) for fast builds and hot reloading
-- **Backend**: Powered by [Convex](https://convex.dev), a serverless backend platform with built-in state management and database
 - **Authentication**: Anonymous login enabled (can be customized)
 - **Deployment**: Connected to a live Convex deployment (`dashing-weasel-50`
 
